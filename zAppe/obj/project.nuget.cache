@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gGNiCopL5KsrwiOT1stjlE+aXGT6FL9bVtsquTm8wbGYANd00rc/Z3xXjN3oyTBkwyVQnna4GzWwsbG23/A1FQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matt\\Zappe\\source\\repos\\zAppe\\zAppe\\zAppe\\zAppe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matt\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Matt\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Matt\\.nuget\\packages\\plugin.ble\\2.1.3\\plugin.ble.2.1.3.nupkg.sha512",
+    "C:\\Users\\Matt\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Matt\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Matt\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
