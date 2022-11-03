@@ -28,3 +28,18 @@ C:\Users\Matt\Zappe\source\repos\zAppe\zAppe\zAppe\obj\Debug\netstandard2.0\zApp
 C:\Users\Matt\Zappe\source\repos\zAppe\zAppe\zAppe\obj\Debug\netstandard2.0\refint\zAppe.dll
 C:\Users\Matt\Zappe\source\repos\zAppe\zAppe\zAppe\obj\Debug\netstandard2.0\zAppe.pdb
 C:\Users\Matt\Zappe\source\repos\zAppe\zAppe\zAppe\obj\Debug\netstandard2.0\ref\zAppe.dll
+C:\Users\Matt\OneDrive\Desktop\Project Zappe Materials\ZappeSource\zAppe\zAppe\bin\Debug\netstandard2.0\zAppe.deps.json
+C:\Users\Matt\OneDrive\Desktop\Project Zappe Materials\ZappeSource\zAppe\zAppe\bin\Debug\netstandard2.0\zAppe.dll
+C:\Users\Matt\OneDrive\Desktop\Project Zappe Materials\ZappeSource\zAppe\zAppe\bin\Debug\netstandard2.0\zAppe.pdb
+C:\Users\Matt\OneDrive\Desktop\Project Zappe Materials\ZappeSource\zAppe\zAppe\obj\Debug\netstandard2.0\zAppe.csproj.AssemblyReference.cache
+C:\Users\Matt\OneDrive\Desktop\Project Zappe Materials\ZappeSource\zAppe\zAppe\obj\Debug\netstandard2.0\zAppe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt\OneDrive\Desktop\Project Zappe Materials\ZappeSource\zAppe\zAppe\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Matt\OneDrive\Desktop\Project Zappe Materials\ZappeSource\zAppe\zAppe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Matt\OneDrive\Desktop\Project Zappe Materials\ZappeSource\zAppe\zAppe\obj\Debug\netstandard2.0\zAppe.AssemblyInfoInputs.cache
+C:\Users\Matt\OneDrive\Desktop\Project Zappe Materials\ZappeSource\zAppe\zAppe\obj\Debug\netstandard2.0\zAppe.AssemblyInfo.cs
+C:\Users\Matt\OneDrive\Desktop\Project Zappe Materials\ZappeSource\zAppe\zAppe\obj\Debug\netstandard2.0\zAppe.csproj.CoreCompileInputs.cache
+C:\Users\Matt\OneDrive\Desktop\Project Zappe Materials\ZappeSource\zAppe\zAppe\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Matt\OneDrive\Desktop\Project Zappe Materials\ZappeSource\zAppe\zAppe\obj\Debug\netstandard2.0\zAppe.dll
+C:\Users\Matt\OneDrive\Desktop\Project Zappe Materials\ZappeSource\zAppe\zAppe\obj\Debug\netstandard2.0\refint\zAppe.dll
+C:\Users\Matt\OneDrive\Desktop\Project Zappe Materials\ZappeSource\zAppe\zAppe\obj\Debug\netstandard2.0\zAppe.pdb
+C:\Users\Matt\OneDrive\Desktop\Project Zappe Materials\ZappeSource\zAppe\zAppe\obj\Debug\netstandard2.0\ref\zAppe.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EZ7p6oWS79yDu/ao4v0vUO1qSA1V6D1bewrvEQA7eRWGIQMa3w4DNgiWYSlcGBdZ0TiBUM+TwQJQl6DU5YBy+A==",
+  "dgSpecHash": "fIzsSUByhUsTuoYQIKE5r8TSRbraGBtnWcVPLs65QZeXifixrKEVLU59sJbmfv/U+QM3mXh9DtU+9TyaAwF74A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matt\\Zappe\\source\\repos\\zAppe\\zAppe\\zAppe.iOS\\zAppe.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Matt\\OneDrive\\Desktop\\Project Zappe Materials\\ZappeSource\\zAppe\\zAppe.iOS\\zAppe.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matt\\.nuget\\packages\\plugin.ble\\2.1.3\\plugin.ble.2.1.3.nupkg.sha512",
     "C:\\Users\\Matt\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

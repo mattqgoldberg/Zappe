@@ -1184,11 +1184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matt\\Zappe\\source\\repos\\zAppe\\zAppe\\zAppe.iOS\\zAppe.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Matt\\OneDrive\\Desktop\\Project Zappe Materials\\ZappeSource\\zAppe\\zAppe.iOS\\zAppe.iOS.csproj",
       "projectName": "zAppe.iOS",
-      "projectPath": "C:\\Users\\Matt\\Zappe\\source\\repos\\zAppe\\zAppe\\zAppe.iOS\\zAppe.iOS.csproj",
+      "projectPath": "C:\\Users\\Matt\\OneDrive\\Desktop\\Project Zappe Materials\\ZappeSource\\zAppe\\zAppe.iOS\\zAppe.iOS.csproj",
       "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matt\\Zappe\\source\\repos\\zAppe\\zAppe\\zAppe.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Matt\\OneDrive\\Desktop\\Project Zappe Materials\\ZappeSource\\zAppe\\zAppe.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1209,8 +1209,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Matt\\Zappe\\source\\repos\\zAppe\\zAppe\\zAppe\\zAppe.csproj": {
-              "projectPath": "C:\\Users\\Matt\\Zappe\\source\\repos\\zAppe\\zAppe\\zAppe\\zAppe.csproj"
+            "C:\\Users\\Matt\\OneDrive\\Desktop\\Project Zappe Materials\\ZappeSource\\zAppe\\zAppe\\zAppe.csproj": {
+              "projectPath": "C:\\Users\\Matt\\OneDrive\\Desktop\\Project Zappe Materials\\ZappeSource\\zAppe\\zAppe\\zAppe.csproj"
             }
           }
         }

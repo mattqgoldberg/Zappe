@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gGNiCopL5KsrwiOT1stjlE+aXGT6FL9bVtsquTm8wbGYANd00rc/Z3xXjN3oyTBkwyVQnna4GzWwsbG23/A1FQ==",
+  "dgSpecHash": "B2Fsk3ZtnaZBtEjsqeFFDLjcmDV7/WSNXVnb7GkyCC/0Y5Og5Zfgi4Y9TOUNZX7p/nWoPRmS+iWUAfo+DxiPlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matt\\Zappe\\source\\repos\\zAppe\\zAppe\\zAppe\\zAppe.csproj",
+  "projectFilePath": "C:\\Users\\Matt\\OneDrive\\Desktop\\Project Zappe Materials\\ZappeSource\\zAppe\\zAppe\\zAppe.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matt\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Matt\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

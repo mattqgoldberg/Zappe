@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matt\\Zappe\\source\\repos\\zAppe\\zAppe\\zAppe\\zAppe.csproj": {}
+    "C:\\Users\\Matt\\OneDrive\\Desktop\\Project Zappe Materials\\ZappeSource\\zAppe\\zAppe\\zAppe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matt\\Zappe\\source\\repos\\zAppe\\zAppe\\zAppe\\zAppe.csproj": {
+    "C:\\Users\\Matt\\OneDrive\\Desktop\\Project Zappe Materials\\ZappeSource\\zAppe\\zAppe\\zAppe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matt\\Zappe\\source\\repos\\zAppe\\zAppe\\zAppe\\zAppe.csproj",
+        "projectUniqueName": "C:\\Users\\Matt\\OneDrive\\Desktop\\Project Zappe Materials\\ZappeSource\\zAppe\\zAppe\\zAppe.csproj",
         "projectName": "zAppe",
-        "projectPath": "C:\\Users\\Matt\\Zappe\\source\\repos\\zAppe\\zAppe\\zAppe\\zAppe.csproj",
+        "projectPath": "C:\\Users\\Matt\\OneDrive\\Desktop\\Project Zappe Materials\\ZappeSource\\zAppe\\zAppe\\zAppe.csproj",
         "packagesPath": "C:\\Users\\Matt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matt\\Zappe\\source\\repos\\zAppe\\zAppe\\zAppe\\obj\\",
+        "outputPath": "C:\\Users\\Matt\\OneDrive\\Desktop\\Project Zappe Materials\\ZappeSource\\zAppe\\zAppe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
